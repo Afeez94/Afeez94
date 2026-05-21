@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Afeez94/Afeez94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name]
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently learning programming
+- 💻 Interested in web development and software engineering
+- 🚀 Working on improving my coding skills
+- 📫 Reach me at: your@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## Projects
+Here are some projects I’m working on:
+- Project 1
+- Project 2
+- Project 3
+
+## GitHub Stats
+You can add your GitHub stats here later.
+
+## Fun Fact
+I enjoy learning new technologies and building cool projects.
